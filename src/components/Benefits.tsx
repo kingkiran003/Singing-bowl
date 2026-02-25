@@ -18,7 +18,7 @@ export default function Benefits() {
           <div className="relative order-2 md:order-1">
             <div className="rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/Side_section_image.png"
+                src="/young-person-enjoying-yoga-retreat_23-2149401400.jpg"
                 alt="Sound Therapy Benefits"
                 className="w-full h-full object-cover"
               />
